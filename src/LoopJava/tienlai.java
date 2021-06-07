@@ -1,3 +1,5 @@
+package LoopJava;
+
 import java.util.Scanner;
 
 public class tienlai {
