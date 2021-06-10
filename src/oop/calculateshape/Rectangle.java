@@ -1,4 +1,4 @@
-package oop.acreageshape;
+package oop.calculateshape;
 
 public class Rectangle implements IShape {
     private double length;

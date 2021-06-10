@@ -1,4 +1,4 @@
-package oop.informationStuden;
+package oop.informationStudent;
 
 public class Customer extends Person {
     private int balanece;

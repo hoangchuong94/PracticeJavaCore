@@ -1,4 +1,4 @@
-package oop.exercisestuden;
+package oop.studencodegym;
 
 public class Student {
     private String name = "john";

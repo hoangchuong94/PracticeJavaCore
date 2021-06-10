@@ -1,4 +1,4 @@
-package oop.exercisestuden;
+package oop.studencodegym;
 
 public class TestStudent {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package oop.acreageshape;
+package oop.calculateshape;
 
 interface IShape {
     double getArea();

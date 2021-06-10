@@ -1,4 +1,4 @@
-package oop.heartofvirginity;
+package oop.calculatequadraticequation;
 
 import java.util.Scanner;
 

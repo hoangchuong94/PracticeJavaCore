@@ -1,4 +1,4 @@
-package oop.informationStuden;
+package oop.informationStudent;
 
 public abstract class Person {
     private String name;

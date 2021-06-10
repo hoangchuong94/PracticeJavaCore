@@ -1,4 +1,4 @@
-package oop.informationStuden;
+package oop.informationStudent;
 
 public class Employee extends Person {
     private double salary;
